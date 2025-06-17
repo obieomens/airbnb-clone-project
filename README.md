@@ -18,6 +18,97 @@ Detailed property viewing
 Secure checkout process
 User authentication
 
+1. List of Design Properties in a Mockup
+✅ Color Styles
+These include all the colors used in the mockup, such as:
+
+Primary Color – The main brand color (e.g., #1A73E8 for buttons or links)
+
+Secondary Color – Supportive color that complements the primary (e.g., #F4B400)
+
+Accent Color – Used sparingly to draw attention (e.g., #34A853)
+
+Background Color – For app or section backgrounds (e.g., #FFFFFF, #F8F9FA)
+
+Text Color – For headings, body text, and muted text (e.g., #202124, #5F6368)
+
+Border Color – Used for outlines or component separation (e.g., #E0E0E0)
+
+Error/Success/Warning Colors – For feedback states (e.g., Red = error, Green = success)
+
+✅ Typography
+Typography includes several properties that define how text looks.
+
+Font Family
+The style or type of font used (e.g.):
+
+Inter
+
+Roboto
+
+Poppins
+
+Helvetica Neue
+
+Arial
+
+Font Weight
+Defines the thickness of the text:
+
+100 – Thin
+
+300 – Light
+
+400 – Regular (normal)
+
+500 – Medium
+
+600 – Semi-bold
+
+700 – Bold
+
+900 – Black
+
+Font Size
+Defines the size of the text, often in px, rem, or em:
+
+Heading 1 (H1): 32px – 48px
+
+Heading 2 (H2): 24px – 32px
+
+Paragraph (Body): 14px – 18px
+
+Caption/Text small: 12px
+
+Importance of Identifying Design Properties in a Mockup
+Understanding and documenting design properties is essential for several reasons:
+
+1. Design Consistency
+Helps maintain uniformity in colors, fonts, and spacing across all pages and components.
+
+Creates a strong and recognizable brand identity.
+
+ 2. Efficient Development
+Developers can implement the design faster when styles are predefined.
+
+Reduces guesswork and miscommunication between designers and developers.
+
+ 3. Scalability
+Easily reuse styles in future projects or across new components.
+
+Makes design systems or component libraries easier to manage.
+
+ 4. Improved Collaboration
+Clear style guides bridge the gap between design and development teams.
+
+Reduces back-and-forth and enhances productivity.
+
+5. Accessibility & UX
+Good typography (size, contrast, spacing) ensures readability.
+
+Consistent colors improve user experience and accessibility for users with visual impairments.
+
+
 
 Primary Pages
     Page	                        Description
