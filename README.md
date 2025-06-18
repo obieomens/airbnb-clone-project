@@ -19,7 +19,7 @@ Secure checkout process
 User authentication
 
 1. List of Design Properties in a Mockup
-✅ Color Styles
+Color Styles
 These include all the colors used in the mockup, such as:
 
 Primary Color – The main brand color (e.g., #1A73E8 for buttons or links)
@@ -36,7 +36,7 @@ Border Color – Used for outlines or component separation (e.g., #E0E0E0)
 
 Error/Success/Warning Colors – For feedback states (e.g., Red = error, Green = success)
 
-✅ Typography
+Typography
 Typography includes several properties that define how text looks.
 
 Font Family
@@ -128,5 +128,31 @@ QA/Testers: Writes test cases, performs testing, reports bugs.
 Devops Engineers: Manages deployment, CI/CD pipeline, server infrastructure.
 Product Owner: Defines requirements, prioritizes features, represents stakeholders.
 Scrum Master: Facilitates agile processes, removes blockers, organizes meetings.
+
+UI Component Patterns
+
+Planned Components
+
+Navbar
+Logo
+Search bar
+User navigation
+Responsive menu
+
+Property Card
+Property image
+Basic details (price, location, rating)
+Favorite button
+Responsive layout
+
+Footer
+Site links
+Company information
+Social media links
+Copyright information
+Each component will be designed for reusability and consistency across the application.
+
+
+
 
 
