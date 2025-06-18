@@ -119,4 +119,14 @@ Simple Checkout View:	Streamlined payment and booking confirmation.
 Importance of User-Friendly Design
 A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
 
+Project Roles and Responsibilities.
+Project Manager: Oversees timeline, coordinates team, manages deliveriables.
+Frontend developers: Implements UI components, ensures responsive designs.
+Backend developers: Builds APIs, manages database, implement business logic.
+Designers: Creates mockups, maintains design system, ensures UX quality.
+QA/Testers: Writes test cases, performs testing, reports bugs.
+Devops Engineers: Manages deployment, CI/CD pipeline, server infrastructure.
+Product Owner: Defines requirements, prioritizes features, represents stakeholders.
+Scrum Master: Facilitates agile processes, removes blockers, organizes meetings.
+
 
